@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-[![Sungho's GitHub stats](https://github-readme-stats.vercel.app/api?username=svk5496)](https://github.com/svk5496/github-readme-stats)
+[![Sungho's GitHub stats](https://github-readme-stats.vercel.app/api?username=svk5496&show_icons=true&theme=dracula)](https://github.com/svk5496/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svk5496)](https://github.com/svk5496/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svk5496&show_icons=true&theme=dracula)](https://github.com/svk5496/github-readme-stats)
 
 <!--
 **svk5496/svk5496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
